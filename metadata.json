@@ -1,0 +1,10 @@
+{
+  "name": "Remix Aruna - Asisten Virtual Pak Guru Luky",
+  "description": "Aruna adalah AI Assistant cerdas dengan pengetahuan universal. Sebagai asisten Pak Guru Luky, ia siap membantumu belajar apa saja, mulai dari matematika hingga tips kehidupan, dengan empati dan kecerdasan tinggi.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
